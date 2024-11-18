@@ -1,0 +1,227 @@
+[
+    {
+      "title": "Tesla Model 3 T-Shirt",
+      "description": "A stylish T-shirt featuring the Tesla Model 3 design.",
+      "image": "https://example.com/images/tesla-tshirt.jpg",
+      "category": "Clothes",
+      "brand": "Tesla",
+      "rating": 4.8,
+      "stock": 120
+    },
+    {
+      "title": "Gucci Silk Scarf",
+      "description": "Luxurious silk scarf from Gucci, perfect for every occasion.",
+      "image": "https://example.com/images/gucci-scarf.jpg",
+      "category": "Clothes",
+      "brand": "Gucci",
+      "rating": 4.6,
+      "stock": 50
+    },
+    {
+      "title": "Apple iPhone 15",
+      "description": "The latest and most advanced smartphone from Apple.",
+      "image": "https://example.com/images/iphone15.jpg",
+      "category": "Tech",
+      "brand": "Apple",
+      "rating": 4.9,
+      "stock": 200
+    },
+    {
+      "title": "Tesla Powerbank",
+      "description": "Compact and efficient power bank inspired by Tesla technology.",
+      "image": "https://example.com/images/tesla-powerbank.jpg",
+      "category": "Tech",
+      "brand": "Tesla",
+      "rating": 4.7,
+      "stock": 100
+    },
+    {
+      "title": "Gucci Designer Handbag",
+      "description": "Premium quality designer handbag with iconic Gucci branding.",
+      "image": "https://example.com/images/gucci-handbag.jpg",
+      "category": "Clothes",
+      "brand": "Gucci",
+      "rating": 4.5,
+      "stock": 30
+    },
+    {
+      "title": "Apple MacBook Pro M3",
+      "description": "Powerful and sleek laptop powered by the Apple M3 chip.",
+      "image": "https://example.com/images/macbook-pro-m3.jpg",
+      "category": "Tech",
+      "brand": "Apple",
+      "rating": 4.9,
+      "stock": 150
+    },
+    {
+      "title": "Gucci Leather Shoes",
+      "description": "Elegant leather shoes by Gucci, designed for formal wear.",
+      "image": "https://example.com/images/gucci-shoes.jpg",
+      "category": "Clothes",
+      "brand": "Gucci",
+      "rating": 4.3,
+      "stock": 75
+    },
+    {
+      "title": "Tesla Model Y Jacket",
+      "description": "A premium jacket inspired by the Tesla Model Y design.",
+      "image": "https://example.com/images/tesla-jacket.jpg",
+      "category": "Clothes",
+      "brand": "Tesla",
+      "rating": 4.5,
+      "stock": 90
+    },
+    {
+      "title": "Apple AirPods Pro 2",
+      "description": "The latest noise-canceling AirPods from Apple.",
+      "image": "https://example.com/images/airpods-pro-2.jpg",
+      "category": "Tech",
+      "brand": "Apple",
+      "rating": 4.8,
+      "stock": 300
+    },
+    {
+      "title": "Tesla Solar Backpack",
+      "description": "Innovative backpack with solar panels for charging devices.",
+      "image": "https://example.com/images/tesla-backpack.jpg",
+      "category": "Tech",
+      "brand": "Tesla",
+      "rating": 4.4,
+      "stock": 65
+    },
+    {
+      "title": "Gucci Perfume",
+      "description": "Luxury fragrance from Gucci, perfect for all occasions.",
+      "image": "https://example.com/images/gucci-perfume.jpg",
+      "category": "Clothes",
+      "brand": "Gucci",
+      "rating": 4.7,
+      "stock": 120
+    },
+    {
+      "title": "Apple Watch Series 9",
+      "description": "Advanced smartwatch with health and fitness features.",
+      "image": "https://example.com/images/apple-watch-9.jpg",
+      "category": "Tech",
+      "brand": "Apple",
+      "rating": 4.9,
+      "stock": 400
+    },
+    {
+      "title": "Tesla Cybertruck Hat",
+      "description": "A trendy hat featuring the Tesla Cybertruck logo.",
+      "image": "https://example.com/images/tesla-hat.jpg",
+      "category": "Clothes",
+      "brand": "Tesla",
+      "rating": 4.6,
+      "stock": 180
+    },
+    {
+      "title": "Gucci Wallet",
+      "description": "Compact and stylish wallet from Gucci.",
+      "image": "https://example.com/images/gucci-wallet.jpg",
+      "category": "Clothes",
+      "brand": "Gucci",
+      "rating": 4.5,
+      "stock": 90
+    },
+    {
+      "title": "Apple HomePod Mini",
+      "description": "Smart speaker with excellent sound quality and Siri integration.",
+      "image": "https://example.com/images/homepod-mini.jpg",
+      "category": "Tech",
+      "brand": "Apple",
+      "rating": 4.8,
+      "stock": 250
+    },
+    {
+      "title": "Tesla Model S Mug",
+      "description": "A ceramic mug featuring the Tesla Model S design.",
+      "image": "https://example.com/images/tesla-mug.jpg",
+      "category": "Clothes",
+      "brand": "Tesla",
+      "rating": 4.7,
+      "stock": 150
+    },
+    {
+      "title": "Gucci Sunglasses",
+      "description": "High-end sunglasses from Gucci with UV protection.",
+      "image": "https://example.com/images/gucci-sunglasses.jpg",
+      "category": "Clothes",
+      "brand": "Gucci",
+      "rating": 4.8,
+      "stock": 60
+    },
+    {
+      "title": "Apple Pencil 2",
+      "description": "Precision tool for creatives, compatible with iPads.",
+      "image": "https://example.com/images/apple-pencil-2.jpg",
+      "category": "Tech",
+      "brand": "Apple",
+      "rating": 4.9,
+      "stock": 350
+    },
+    {
+      "title": "Tesla Wall Charger",
+      "description": "Efficient home charging solution for Tesla vehicles.",
+      "image": "https://example.com/images/tesla-charger.jpg",
+      "category": "Tech",
+      "brand": "Tesla",
+      "rating": 4.6,
+      "stock": 75
+    },
+    {
+      "title": "Gucci Belt",
+      "description": "Premium leather belt with iconic Gucci logo.",
+      "image": "https://example.com/images/gucci-belt.jpg",
+      "category": "Clothes",
+      "brand": "Gucci",
+      "rating": 4.8,
+      "stock": 100
+    },
+    {
+      "title": "Apple Magic Keyboard",
+      "description": "Sleek and efficient keyboard for Mac and iPad users.",
+      "image": "https://example.com/images/magic-keyboard.jpg",
+      "category": "Tech",
+      "brand": "Apple",
+      "rating": 4.8,
+      "stock": 230
+    },
+    {
+      "title": "Tesla Model X Hoodie",
+      "description": "A comfortable hoodie with Tesla Model X branding.",
+      "image": "https://example.com/images/tesla-hoodie.jpg",
+      "category": "Clothes",
+      "brand": "Tesla",
+      "rating": 4.6,
+      "stock": 140
+    },
+    {
+      "title": "Gucci Tracksuit",
+      "description": "Stylish and comfortable tracksuit from Gucci.",
+      "image": "https://example.com/images/gucci-tracksuit.jpg",
+      "category": "Clothes",
+      "brand": "Gucci",
+      "rating": 4.7,
+      "stock": 70
+    },
+    {
+      "title": "Tesla Model S Backpack",
+      "description": "High-quality backpack inspired by Tesla's Model S.",
+      "image": "https://example.com/images/tesla-backpack.jpg",
+      "category": "Clothes",
+      "brand": "Tesla",
+      "rating": 4.4,
+      "stock": 100
+    },
+    {
+      "title": "Apple iPad Air 2024",
+      "description": "Lightweight and powerful tablet from Apple.",
+      "image": "https://example.com/images/ipad-air.jpg",
+      "category": "Tech",
+      "brand": "Apple",
+      "rating": 4.9,
+      "stock": 210
+    }
+  ]
